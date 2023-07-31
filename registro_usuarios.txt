@@ -1,0 +1,2 @@
+{'id': 0, 'nombre': 'Francis', 'apellido': 'Lugo', 'edad': 33, 'genero': 'Femenino', 'pais': 'Venezuela', 'ciudad': 'Valencia', 'correo': 'francis@gmail.com', 'telefono': '+44-444-444-4444'}
+{'id': 1, 'nombre': 'Francis', 'apellido': 'Lugo', 'edad': 45, 'genero': 'Femenino', 'pais': 'Venezuela', 'ciudad': 'Valencia', 'correo': 'francislugo@gmail.com', 'telefono': '+44-444-444-4444'}
